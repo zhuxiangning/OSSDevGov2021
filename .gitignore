@@ -8,4 +8,4 @@ META_INF
 logs
 .idea
 *.sh
-tmp_exam
+*.xml
